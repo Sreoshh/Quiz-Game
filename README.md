@@ -58,12 +58,6 @@ This is a fully functional Quiz App designed to sharpen your *Core Web Developme
 
 ---
 
-## 📸 Preview
-
-> (Include screenshots or a Loom/GIF if available)
-
----
-
 ## 🧠 Credit
 
 Thanks to the [Learn Build Teach](https://learnbuildteach.com/) community for the inspiration and walkthrough!
