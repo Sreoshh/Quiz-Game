@@ -6,7 +6,7 @@
   "homepage": "https://sreoshh.github.io/Quiz-Game",
   "scripts": {
     "predeploy": "echo No build step needed",
-    "deploy": "gh-pages -d 'Quiz App Master'"
+    "deploy": "gh-pages -d \"Quiz App Master\""
   },
   "repository": {
     "type": "git",
