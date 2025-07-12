@@ -2,6 +2,8 @@
 
 This is a fully functional Quiz App designed to sharpen your *Core Web Development Skills* using *Vanilla JavaScript, **Flexbox, **Animations, and **APIs*. It loads dynamic trivia questions from [Open Trivia DB](https://opentdb.com), tracks high scores, and includes a visual progress bar and feedback system.
 
+## 🔗 Live Demo[https://sreoshh.github.io/Quiz-Game/ ]
+
 ## 🚀 Features
 
 - 📥 Fetch questions from Open Trivia DB API
