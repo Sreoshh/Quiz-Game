@@ -1,0 +1,23 @@
+{
+  "name": "quizgame",
+  "version": "1.0.0",
+  "description": "This is a fully functional Quiz App designed to sharpen your *Core Web Development Skills* using *Vanilla JavaScript, **Flexbox, **Animations, and **APIs*. It loads dynamic trivia questions from [Open Trivia DB](https://opentdb.com), tracks high scores, and includes a visual progress bar and feedback system.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sreoshh/Quiz-Game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sreoshh/Quiz-Game/issues"
+  },
+  "homepage": "https://github.com/Sreoshh/Quiz-Game#readme",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
