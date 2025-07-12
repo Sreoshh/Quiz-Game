@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Sreoshh/Quiz-Game.git"
+    "url": "git+https://github.com/Sreoshh/Quiz App Master.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Sreoshh/Quiz-Game/issues"
+    "url": "https://github.com/Sreoshh/Quiz App Master/issues"
   },
-  "homepage": "https://github.com/Sreoshh/Quiz-Game#readme",
+  "homepage": "https://github.com/Sreoshh/Quiz App Master#readme",
   "devDependencies": {
     "gh-pages": "^6.3.0"
   }
